@@ -1,0 +1,22 @@
+{
+  "name": "muses-errors",
+  "version": "0.1.0",
+  "description": "Muses Errors Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Muses/errors.git"
+  },
+  "keywords": [
+    "Muses",
+    "Errors"
+  ],
+  "author": "Rob Schley",
+  "license": "MIT",
+  "dependencies": {
+    "muses-error": "^0.1.2"
+  }
+}
