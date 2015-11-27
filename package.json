@@ -1,6 +1,6 @@
 {
   "name": "muses-errors",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Muses Errors Package",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   "author": "Rob Schley",
   "license": "MIT",
   "dependencies": {
-    "muses-error": "^0.1.2"
+    "muses-error": "^1.0.0"
   }
 }
