@@ -1,4 +1,6 @@
 
+[![CircleCI](https://circleci.com/gh/Muses/errors/tree/master.svg?style=svg)](https://circleci.com/gh/Muses/errors/tree/master)
+
 # Muses Errors Package
 
 Common predefined error messages for HTTP based services.
